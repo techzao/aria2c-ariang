@@ -3,7 +3,12 @@
 > It it recommended to find other platform than Heroku to deploy this as they are actively prevent this from deploying there.
 > You can find many free platforms here: https://free-for.dev/
 
-## Deploying On Heroku
+## Deploying On Heroku      
+ 
+  
+  
+    
+    
 
 ### Requirement
 
